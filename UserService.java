@@ -1,0 +1,3 @@
+
+@GenerateImpl
+public interface UserService {}
